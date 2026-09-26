@@ -5,6 +5,9 @@ A frontend prototype for tracking household water and electricity consumption.
 EcoSave AI brings consumption data, reports, alerts, and recommendations into one dashboard. The current version focuses on the user interface and application flow, while backend persistence, real authentication, and AI-assisted recommendations are planned for later development.
 
 **Live Demo:** https://eco-save-ai.vercel.app
+## Preview
+
+![EcoSave AI Dashboard](./public/screenshots/dashboard.png)
 
 ## Current Features
 
