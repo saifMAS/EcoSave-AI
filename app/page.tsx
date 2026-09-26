@@ -37,5 +37,9 @@ function AppContent() {
 }
 
 export default function Home() {
-  return <h1>EcoSave AI is working 🚀</h1>
+  return (
+    <NavigationProvider>
+      <AppContent />
+    </NavigationProvider>
+  )
 }
