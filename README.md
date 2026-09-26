@@ -54,4 +54,4 @@ The application uses a screen-based frontend architecture.
 git clone https://github.com/saifMAS/EcoSave-AI.git
 cd EcoSave-AI
 npm install
-npm run dev
+npm run dev.
