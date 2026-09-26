@@ -49,10 +49,25 @@ The recommendations and AI-related content currently use sample data. A real AI 
 - `components/ui/` — reusable UI components
 - `contexts/` — client-side navigation and authentication state
 
-## Run Locally
+## Roadmap
 
-```bash
-git clone https://github.com/saifMAS/EcoSave-AI.git
-cd EcoSave-AI
-npm install
-npm run dev
+- [x] Application interface
+- [x] Dashboard and consumption charts
+- [x] Data entry flow
+- [x] Reports interface
+- [x] Recommendations and alerts interface
+- [x] Responsive navigation
+- [x] Vercel deployment
+- [ ] Backend API
+- [ ] Database persistence
+- [ ] Real authentication
+- [ ] AI-assisted recommendation engine
+- [ ] Automated testing
+- [ ] Production hardening
+
+## Author
+
+**Saif Ratib**  
+Software Engineering Student | Backend Development & AI
+
+[LinkedIn](https://www.linkedin.com/in/saifratib)
